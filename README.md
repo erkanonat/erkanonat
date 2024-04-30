@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Havelsan as a Senior Software Engineer
-- 🌱 I’m currently learning  GoLang and Kubernetes 
+- 🔭 I’m currently working on Havelsan as a Leader Software Engineer
+- 🌱 I’m currently learning Python, GoLang and Kubernetes
 - 💬 Ask me about java, IoT,  cloud technologies, scalable and distributed systems
 - 📫 How to reach me: erkanonat90@gmail.com 
 <!--
