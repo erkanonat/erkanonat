@@ -1,4 +1,4 @@
-### Hi  👋
+### Hi  
 
 - 🔭 I’m currently working as a Lead Software Engineer at Havelsan
 - 🌱 I’m currently learning goLang and Kubernetes
